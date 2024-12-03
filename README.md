@@ -2,7 +2,7 @@
 
 ## Authors and affiliations:
 
-Andrea Ruiz-Escudero 1,2,3, Maxim Belii 4, Karam Nader 4, Maite Insausti 4,5, Humberto González-Díaz 4,6, Idoia Castellanos-Rubio 4*, Sonia Arrasate 4*
+Andrea Ruiz-Escudero 1,2,3, Maxim Belii 4, Karam Nader 4, Maite Insausti 4,5, Idoia Castellanos-Rubio 4*, Sonia Arrasate 4*, Humberto González-Díaz 4,6,
 
 1 Department of Pharmacology, Faculty of Medicine, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain. 
 
@@ -17,6 +17,4 @@ Andrea Ruiz-Escudero 1,2,3, Maxim Belii 4, Karam Nader 4, Maite Insausti 4,5, Hu
 6 IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain. 
 
 ### *Correspondence:
-sonia.arrasate@ehu.eus
-
-idoia.castellanos@ehu.eus
+humberto.gonzalezdiaz@ehu.es

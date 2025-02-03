@@ -2,7 +2,7 @@
 
 ## Authors and affiliations:
 
-Andrea Ruiz-Escudero 1,2,3, Maxim Belii 4, Karam Nader 4, Maite Insausti 4,5, Idoia Castellanos-Rubio 4*, Sonia Arrasate 4*, Humberto González-Díaz 4,6,
+Andrea Ruiz-Escudero 1,2,3, Maxim Belii 4, Karam Nader 4, Maite Insausti 4,5, Idoia Castellanos-Rubio 4, Sonia Arrasate 4, Matthew M. Montemore,6 Humberto González-Díaz 4,7*
 
 1 Department of Pharmacology, Faculty of Medicine, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain. 
 
@@ -12,9 +12,11 @@ Andrea Ruiz-Escudero 1,2,3, Maxim Belii 4, Karam Nader 4, Maite Insausti 4,5, Id
 
 4 Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao, Spain. 
 
-5 BCMaterials, Basque Center for Materials, Applications and Nanostructures, 48940 Leioa, Spain. 
+5 BCMaterials, Basque Center for Materials, Applications and Nanostructures, 48940 Leioa, Spain.
 
-6 IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain. 
+6 Department of Chemical and Biomolecular Engineering, Tulane University, New Orleans, Louisiana 70118, United States.
+
+7 IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain. 
 
 ### *Correspondence:
 humberto.gonzalezdiaz@ehu.es
